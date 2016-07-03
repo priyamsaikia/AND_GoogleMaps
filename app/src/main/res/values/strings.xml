@@ -1,6 +1,4 @@
 <resources>
     <string name="app_name">Google Maps</string>
     <string name="action_settings">Settings</string>
-    <style name="project_id">innate-octagon-136123</style>
-    <style name="api_key_with_fingerprint">AIzaSyDRUGQHI63bMwHBGswZvCWVFqFAr9</style>
 </resources>
